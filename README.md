@@ -17,7 +17,7 @@ We are a global federation working to protect and care for children who have los
 
 ### About this Repo
 [Our organization](https://www.sos-childrensvillages.org/organisation) is a federation of 118 national SOS Children's Villages associations. This Repo is maintained by developers from the umbrella organization: [SOS Children's Villages International](https://www.sos-childrensvillages.org/).
-The Hackathon will be supported by people from our local SOS organization [SOS Børnebyerne / SOS Children's Villages Denmark](www.sosbornebyerne.dk).
+The Hackathon will be supported by people from our local SOS organization [SOS Børnebyerne / SOS Children's Villages Denmark](https://www.sosbornebyerne.dk).
 
 ### What we have built so far internally
 We have built and rolled out an [Angular](https://angular.io/) Application called PDB which stands for Programme Database. It is used by more than 6000 of our socialworkers in more than 100 countries and translated into 37 languages. It's used on Windows-PCs, Android Phones and Tablets.
