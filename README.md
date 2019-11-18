@@ -33,7 +33,7 @@ Unfortunately, we cannot publish the sourcecode of PDB in here, but that's how i
 
 And that's how it's used in a family's home:
 
-![picture](./documentation/images/howTheAppIsUsed.jpg)
+![picture](./documentation/images/Pic-2.png)
 
 
 ## How you can help
