@@ -31,11 +31,6 @@ Unfortunately, we cannot publish the sourcecode of PDB in here, but that's how i
 
 (You'll find more screenshots and pictures in /documentation/images)
 
-And that's how it's used in a family's home:
-
-![picture](./documentation/images/Pic-2.png)
-
-
 ## How you can help
 
 Due to limited resources we had to focus on implementing the most needed business-requirements first. We had no time for "nice to have"-features that make the application more appealing to it's users.
