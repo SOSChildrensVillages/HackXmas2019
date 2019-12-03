@@ -19,7 +19,7 @@ We are a global federation working to protect and care for children who have los
 [Our organization](https://www.sos-childrensvillages.org/organisation) is a federation of 118 national SOS Children's Villages associations. This Repository is maintained by developers from the umbrella organization: [SOS Children's Villages International](https://www.sos-childrensvillages.org/).
 
 ### What we have built so far internally
-We have built and rolled out an [Angular](https://angular.io/) Application called PDB which stands for Programme Database. It is used by more than 6,000 of social workers in more than 100 countries and territories translated into 37 languages. It's used on Windows-PCs, Android Phones and Tablets.
+We have built and rolled out an [Angular](https://angular.io/) Application called PDB which stands for Programme Database. It is used by more than 5,000 of social workers in more than 100 countries and territories translated into 37 languages. It's used on Windows-PCs, Android Phones and Tablets.
 
 We have added some offline-capabilites based on [service workers](https://angular.io/guide/service-worker-getting-started) and indexed-db because some of our socialworkers work in places where the internet has not arrived yet.
 
