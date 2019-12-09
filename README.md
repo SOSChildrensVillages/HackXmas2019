@@ -14,9 +14,10 @@ We are a global federation working to protect and care for children who have los
     for this Project you should be familiar with these areas of our work:
     - Strengthen families
         - We help families that experience crises or extreme hardship so they can stay together.
-        https://www.sos-childrensvillages.org/our-work/quality-care/strengthen-families
+        - https://www.sos-childrensvillages.org/our-work/quality-care/strengthen-families
     - Alternative care
         - We work to provide quality alternative care for children who can no longer live with their parents.
+        - https://www.sos-childrensvillages.org/our-work/quality-care/alternative-care
 
 - [Our history](https://www.sos-childrensvillages.org/who-we-are/history) (founded 70 years before)
 - [Where we help](https://www.sos-childrensvillages.org/where-we-help) (in 136 countries around the world)
