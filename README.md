@@ -20,9 +20,10 @@ We are a global federation working to protect and care for children who have los
         - https://www.sos-childrensvillages.org/our-work/quality-care/alternative-care
 
 - [Our history](https://www.sos-childrensvillages.org/who-we-are/history) (founded 70 years before)
-- [Where we help](https://www.sos-childrensvillages.org/where-we-help) (in 136 countries around the world)
+    - Video 70 years of heritage: https://youtu.be/JaMDHveDbkg
+    - our impact, Sustainable Development Goals: https://youtu.be/4mct0uW6zsg
 
-watch the Video: https://youtu.be/4mct0uW6zsg
+- [Where we help](https://www.sos-childrensvillages.org/where-we-help) (in 136 countries around the world)
 
 ### About this Repository
 [Our organization](https://www.sos-childrensvillages.org/organisation) is a federation of 118 national SOS Children's Villages associations. This Repository is maintained by developers from the umbrella organization: [SOS Children's Villages International](https://www.sos-childrensvillages.org/).
